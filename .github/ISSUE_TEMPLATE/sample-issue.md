@@ -28,6 +28,6 @@ If using the .NET Core SDK, include `dotnet --info` output. If using .NET Framew
 <summary><strong>dotnet --info output</strong> or <strong>About VS info</strong></summary>
 
 ```console
-<replace>
+<>
 ```
 </details>
